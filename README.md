@@ -1,1 +1,1 @@
-# gomay
+# Gomay Group
